@@ -1,4 +1,10 @@
+# plotpoint
+
 ## Hi there 👋
+
+Solving problems, sharing knowledge. I'm a dedicated software engineer who believes in the power of collaboration and open source. My work revolves around tackling real-world problems and building automated systems that simplify complex tasks.
+
+
 
 <!--
 **plotpoint/plotpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
