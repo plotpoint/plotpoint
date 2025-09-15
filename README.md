@@ -54,7 +54,7 @@ Solving problems, sharing knowledge. I'm a dedicated software engineer who belie
 <br />
 
 
-### 📊 Stats
+## 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=plotpoint&show_icons=true&theme=gruvbox)
 
