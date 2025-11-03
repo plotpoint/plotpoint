@@ -5,7 +5,7 @@
 Solving problems, sharing knowledge. I'm a dedicated software engineer who believes in the power of collaboration and open source. My work revolves around tackling real-world problems and building automated systems that simplify complex tasks.
 
 ## Interests
-- 🤟 Java, Python, JavaScript, TypeScript
+- 🤟 Java, Python, Go, JavaScript, TypeScript
 - ✨ DevOps, kubernetes
 - 🏗️ Software architecture
 - 🧠 Artificial intelligence
@@ -16,6 +16,7 @@ Solving problems, sharing knowledge. I'm a dedicated software engineer who belie
 
 ### ✍️ Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="quarkus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
